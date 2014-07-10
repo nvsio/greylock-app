@@ -2071,13 +2071,17 @@ body {
 }
 .mcontent .price-1 .plan .description {
   margin: 26px 0;
-  padding-top: 22px;
+  padding-top: 20px;
   border-top: 2px solid #ebedee;
   line-height: 28px;
   font-weight: normal;
 }
 .mcontent .price-1 .plan .description b {
   font-weight: 500;
+}
+.mcontent .price-1 .plan .icons {
+  padding-top: 6px;
+  letter-spacing: 3px;
 }
 .mcontent .price-1 .plan .btn {
   min-width: 170px;
