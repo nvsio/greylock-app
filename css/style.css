@@ -2482,7 +2482,6 @@ body {
   color: white;
 }
 body {
-  padding-top: 66px;
   position: relative;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -3327,7 +3326,6 @@ body .colapsed-menu::-webkit-scrollbar {
   color: #1b1f23;
 }
 body {
-  padding-top: 112px;
   position: relative;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
